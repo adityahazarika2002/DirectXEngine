@@ -1,0 +1,2 @@
+Video Card Name: AMD Radeon(TM) RX Vega 10 Graphics
+Video Card Memory: 240 MB
